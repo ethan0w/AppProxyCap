@@ -10,6 +10,7 @@ Pod::Spec.new do |s|
   s.name         = "AppProxyCap"
   s.version      = "0.0.1"
   s.summary      = "Application-wide proxy setting"
+  s.author       = { "freewizard" => "freewizard@github.com" }
 
   s.description  = <<-DESC
                    Application-wide proxy setting
