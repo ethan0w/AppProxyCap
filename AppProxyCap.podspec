@@ -23,5 +23,6 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.source       = { :git => "https://github.com/freewizard/AppProxyCap.git" }
   s.source_files  = "lib/**/*.{h,m}"
+  s.requires_arc = false
   
 end
