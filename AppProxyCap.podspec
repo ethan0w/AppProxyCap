@@ -23,6 +23,5 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.source       = { :git => "https://github.com/freewizard/AppProxyCap.git" }
   s.source_files  = "lib/**/*.{h,m}"
-  s.dependency  "inject_and_interpose", :git =>'https://github.com/ethan0w/inject_and_interpose.git'
   
 end
